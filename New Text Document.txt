@@ -1,0 +1,27 @@
+Document Object: 
+
+1. The document object represent a web page that is loaded in the browser. 
+   By accessing the document object, we can access the element in the HTML 
+   page. With the help of document objects, we can add dynamic content to 
+   our web page. The document object can be accessed with a just document.
+
+2. It is loaded inside the window.
+
+3. It is the object of window property.
+
+4. Each HTML document that gets loaded into a window becomes a document object.
+
+
+
+Window Object: 
+
+1. The window object is the topmost object of the DOM hierarchy. It 
+   represents a browser window or frame that displays the contents of the 
+   webpage. Whenever a window appears on the screen to display the contents 
+   of the document, the window object is created. 
+
+2. It is the very first object that is loaded in the browser.
+
+3. It is the object of the browser.
+
+4.  Top of the hierarchy. It is the outmost element of the object hierarchy.
